@@ -1,2 +1,2 @@
-Please open the static website by the link below:
+Please open the static web page by the link below:
 https://gomstivan.github.io
